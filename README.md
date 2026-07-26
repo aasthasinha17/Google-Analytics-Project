@@ -11,12 +11,6 @@ Custom Google Analytics Dashboard based on Google Analytics Reporting API v4 wit
     <img src="src/assets/images/browsers-devices.JPG" alt="browsers and devices" width="200" height="90"/>
 </p>
 
-## Technologies used
-
-- [React.js](https://reactjs.org/)
-- [Google Analytics API](https://developers.google.com/analytics/devguides/reporting/core/v4)
-- [React Charts](https://github.com/jerairrest/react-chartjs-2)
-- [Styled Components](https://styled-components.com/)
 
 ## Run the app locally
 
